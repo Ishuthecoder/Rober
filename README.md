@@ -1,8 +1,8 @@
 Environmental Monitoring and Obstacle Detection Rover
 1. Overview
 The rover is an advanced environmental monitoring and obstacle detection system designed to collect real-time data on temperature, humidity, air quality, and soil moisture. It also integrates an ultrasonic sensor to detect obstacles, ensuring seamless navigation in various terrains. The data collected by the rover is displayed on an interactive dashboard for real-time visualization and analysis.
-[Rober image](https://github.com/user-attachments/assets/d9e59806-7a97-4cb2-8d5e-ee7e74d05635)
 
+![image](https://github.com/user-attachments/assets/62300e40-e0b6-4042-a4a5-2890f798458e)
 
 2. Sensor Modules and Their Functions
 DHT11 Sensor (Temperature & Humidity Monitoring)
@@ -26,7 +26,7 @@ Soil Moisture Levels to assist in irrigation planning.
 Obstacle Detection Alerts using ultrasonic sensor data to prevent collisions.
 📊 Dashboard Screenshots:
 
-![image](https://github.com/user-attachments/assets/e298ed88-1e57-4e51-a25a-19f23f10697e)
+![image](https://github.com/user-attachments/assets/8f6228f3-b51a-4f75-9a8c-d617b2e2f890)
 
 ![image](https://github.com/user-attachments/assets/799dea97-9a90-42d4-9378-a2bfd335019d)
 

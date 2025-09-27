@@ -134,5 +134,4 @@ export default Dashboard;
 This rover, combined with its **real-time dashboard**, is a complete solution for **environmental monitoring, research, agriculture**, and **autonomous navigation**.
 It demonstrates the integration of **hardware sensors, IoT**, and **web-based visualization to provide actionable insights in real-time**.
 
-    delay(5000);
-}
+    
